@@ -7,10 +7,10 @@ services:
       args:
       - uid=1001
       - gid=1001
-      - username=abc
-      - project_name=cppenv
-    container_name: cpp-env
-    image: cpp-env-image
+      - username=k-washi
+      - project_name=cppstudy002
+    container_name: cpp-study-002
+    image: cpp-study-002-image
     shm_size: '24gb'
     tty: true
     volumes: 
