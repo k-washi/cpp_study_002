@@ -1,0 +1,8 @@
+{
+    "clang.executable": "g++",
+    "code-runner.runInTerminal": true,
+    "clang.cxxflags": [ "-std=c++23"],
+    "[cpp]": {
+      "editor.defaultFormatter": "ms-vscode.cpptools"
+    }
+}
